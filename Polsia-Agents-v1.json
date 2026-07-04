@@ -1,0 +1,58 @@
+{
+  "polsia_ai_agents": [
+    {
+      "agent_name": "Research and Planning Agent",
+      "skills": [
+        "Market analysis",
+        "Competitor research",
+        "Idea validation",
+        "Business plan creation",
+        "Mission document formulation",
+        "Customer segmentation"
+      ]
+    },
+    {
+      "agent_name": "Product Development Agent",
+      "skills": [
+        "Code generation",
+        "Web application development",
+        "Database architecture setup (Node/Express + Postgres)",
+        "Feature deployment",
+        "Bug identification and fixing",
+        "Infrastructure provisioning",
+        "Feedback-based software iteration"
+      ]
+    },
+    {
+      "agent_name": "Marketing and Sales Agent",
+      "skills": [
+        "Campaign creation and execution",
+        "Ad design (e.g., Meta Ads)",
+        "Marketing budget management",
+        "Cold email outreach",
+        "Social media management (e.g., Twitter/X)",
+        "Lead generation"
+      ]
+    },
+    {
+      "agent_name": "Operations and Support Agent",
+      "skills": [
+        "Customer service automated responses",
+        "Inbox and email management",
+        "Payment and invoice processing",
+        "Business performance monitoring",
+        "Operational optimization (scaling successful elements, cutting losses)"
+      ]
+    },
+    {
+      "agent_name": "Strategy and Orchestration Agent",
+      "skills": [
+        "Persistent autonomous loop coordination",
+        "Real-time task planning and execution",
+        "Browser automation (e.g., via Puppeteer)",
+        "Cross-operational memory retention",
+        "Isolated company instance deployment"
+      ]
+    }
+  ]
+}
