@@ -1,0 +1,83 @@
+{
+  "agents": [
+    {
+      "name": "Orchestrator / Strategy Agent",
+      "skills": [
+        "Goal decomposition",
+        "Task assignment",
+        "Daily planning",
+        "Evening summary generation",
+        "Workflow orchestration"
+      ]
+    },
+    {
+      "name": "Business Planning Agent",
+      "skills": [
+        "Strategy development",
+        "KPI definition and tracking",
+        "Growth planning"
+      ]
+    },
+    {
+      "name": "Competitor Research Agent",
+      "skills": [
+        "Web searching and scraping",
+        "Competitor profiling",
+        "Market analysis"
+      ]
+    },
+    {
+      "name": "Social Media Agent",
+      "skills": [
+        "Content drafting",
+        "Copywriting",
+        "Automated posting (e.g., X/Twitter)"
+      ]
+    },
+    {
+      "name": "Email Outreach Agent",
+      "skills": [
+        "Lead prospecting",
+        "Cold email sequence generation",
+        "Email scheduling"
+      ]
+    },
+    {
+      "name": "Customer Support / Comms Agent",
+      "skills": [
+        "Inbox monitoring",
+        "Reply drafting",
+        "Investor communications",
+        "Customer service"
+      ]
+    },
+    {
+      "name": "Ads Management Agent",
+      "skills": [
+        "Google Ads optimization",
+        "Meta Ads optimization",
+        "Budget allocation",
+        "Campaign management"
+      ]
+    },
+    {
+      "name": "Code Generation / Engineering Agent",
+      "skills": [
+        "Feature implementation",
+        "Pull Request (PR) generation",
+        "Bug fixing",
+        "Application deployment",
+        "Code execution"
+      ]
+    },
+    {
+      "name": "Finance / Ops Agent",
+      "skills": [
+        "Revenue syncing (Stripe integration)",
+        "Expense tracking",
+        "Metric monitoring",
+        "Process self-optimization"
+      ]
+    }
+  ]
+}
