@@ -20,6 +20,8 @@ if "chat_histories" not in st.session_state:
     st.session_state.chat_histories = {}
 if "custom_agents" not in st.session_state:
     st.session_state.custom_agents = {}
+if "selected_agent" not in st.session_state:
+    st.session_state.selected_agent = None
 
 # ====================== DEFAULT AGENTS ======================
 DEFAULT_AGENTS = {
@@ -100,6 +102,7 @@ if not st.session_state.api_key:
     st.stop()
 
 all_agents = get_all_agents()
+agent_names = list(all_agents.keys())
 
 # ====================== TABS ======================
 tab1, tab2, tab3, tab4 = st.tabs([
@@ -122,23 +125,22 @@ with tab1:
                 st.markdown(f"**Goal:** {info['goal']}")
                 with st.expander("Backstory"):
                     st.write(info['backstory'])
-                if st.button(f"Chat with this agent", key=f"chat_btn_{name}"):
+                if st.button(f"💬 Chat with this agent", key=f"chat_btn_{name}"):
                     st.session_state.selected_agent = name
-                    st.info("→ Switch to the **Chat with Agent** tab")
+                    st.info("→ Go to the **Chat with Agent** tab")
 
 # --- TAB 2: Single Agent Chat ---
 with tab2:
     st.header("💬 Chat with a Single Agent")
     
-    agent_names = list(all_agents.keys())
-    
-    if "selected_agent" not in st.session_state:
+    # Default selection
+    if st.session_state.selected_agent is None or st.session_state.selected_agent not in agent_names:
         st.session_state.selected_agent = agent_names[0]
     
     selected_agent = st.selectbox(
         "Choose your agent",
         agent_names,
-        index=agent_names.index(st.session_state.selected_agent) if st.session_state.selected_agent in agent_names else 0
+        index=agent_names.index(st.session_state.selected_agent)
     )
     st.session_state.selected_agent = selected_agent
     
@@ -193,7 +195,7 @@ with tab2:
                 except Exception as e:
                     st.error(f"Error: {str(e)}")
 
-# --- TAB 3: Multi-Agent Crew (The Cool Part) ---
+# --- TAB 3: Multi-Agent Crew ---
 with tab3:
     st.header("🤝 Multi-Agent Crew")
     st.markdown("Give one task to multiple agents. They collaborate sequentially and deliver a final synthesized result.")
@@ -215,7 +217,7 @@ with tab3:
         full_context = f"**Task:** {task}\n\n"
         
         for i, agent_name in enumerate(selected_team):
-            progress.progress((i) / len(selected_team))
+            progress.progress((i + 1) / len(selected_team))
             agent_info = all_agents[agent_name]
             
             st.write(f"**{agent_name}** is working...")
@@ -249,7 +251,7 @@ Provide your best contribution to help complete the task."""
                 st.error(f"Error with {agent_name}: {e}")
                 break
         
-        progress.progress(1.0)w
+        progress.progress(1.0)
         
         # Final synthesis
         st.subheader("📋 Final Team Deliverable")
@@ -301,7 +303,4 @@ with tab4:
                 st.success(f"Agent **{name}** created successfully!")
                 st.balloons()
             else:
-                st.error("Please fill Name, Role, Goal and System Prompt")
-
-st.divider()
-st.caption("Made with Streamlit + Google Gemini API • Works with both free and paid keys")
+                st.error("Please fill Name,
