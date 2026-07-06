@@ -1,0 +1,101 @@
+Category	Agent/Platform Name	Description
+General-Purpose & Task Automation	AutoGPT	The open-source pioneer for chaining LLM thoughts to achieve broad, multi-step goals.
+General-Purpose & Task Automation	BabyAGI	A lightweight, highly influential task-driven autonomous agent script.
+General-Purpose & Task Automation	AgentGPT	A browser-based platform allowing users to assemble, configure, and deploy autonomous agents.
+General-Purpose & Task Automation	SuperAGI	A developer-first, open-source autonomous AI agent framework designed for production.
+General-Purpose & Task Automation	Godmode	A web UI that allows users to seamlessly guide and manage autonomous AI agents.
+General-Purpose & Task Automation	MultiOn	An AI agent designed to navigate the web and complete complex tasks autonomously.
+General-Purpose & Task Automation	Lindy.ai	An AI personal assistant focused on managing calendars, drafting emails, and handling daily workflows.
+General-Purpose & Task Automation	HyperWrite Assistant	A consumer-friendly autonomous assistant built specifically for web navigation and research.
+General-Purpose & Task Automation	MindOS	An AI platform for building customizable, interactive digital twins and task agents.
+General-Purpose & Task Automation	Adept ACT-1	A foundational model trained explicitly to interact with user interfaces and use software tools like a human.
+Developer & Coding Agents	Devin (by Cognition)	The highly publicized, fully autonomous AI software engineer capable of building and deploying apps.
+Developer & Coding Agents	Cursor	An AI-first code editor with powerful, context-aware, multi-file code generation capabilities.
+Developer & Coding Agents	GitHub Copilot Workspace	The next evolution of Copilot, acting as an agentic, issue-to-pull-request developer environment.
+Developer & Coding Agents	Aider	An open-source AI pair programming agent that works directly within your terminal.
+Developer & Coding Agents	GPT Engineer	An agent that generates an entire codebase from a single, detailed natural language prompt.
+Developer & Coding Agents	Sweep.dev	An AI junior developer agent that turns bug reports and feature requests into fully tested pull requests.
+Developer & Coding Agents	Replit Agent	An integrated AI agent within the Replit IDE that can write, test, and deploy code autonomously.
+Developer & Coding Agents	v0 (by Vercel)	An agentic design tool that generates complex, interactive UI components directly from text prompts.
+Developer & Coding Agents	Lovable	An AI coding assistant heavily focused on rapid, full-stack application generation.
+Developer & Coding Agents	Poolside	An AI coding assistant engineered specifically for real-time developer collaboration and complex codebases.
+Agentic Frameworks & Builders	LangGraph (by LangChain)	A framework for building stateful, multi-actor applications with cyclic LLM workflows.
+Agentic Frameworks & Builders	Microsoft AutoGen	A powerful framework enabling the development of applications using multiple conversing AI agents.
+Agentic Frameworks & Builders	CrewAI	A framework designed specifically for orchestrating role-playing, collaborative AI agents.
+Agentic Frameworks & Builders	MetaGPT	A multi-agent framework that takes a one-line requirement and outputs a PRD, design, tasks, and code.
+Agentic Frameworks & Builders	CAMEL AI	A role-playing agent framework for simulating communicative behaviors and task-solving between agents.
+Agentic Frameworks & Builders	Phidata	A toolkit for building AI agents equipped with long-term memory, custom knowledge bases, and API tools.
+Agentic Frameworks & Builders	Semantic Kernel	Microsoft's open-source SDK for integrating agentic AI models with existing enterprise codebases.
+Agentic Frameworks & Builders	OpenAI Swarm	A lightweight, experimental, open-source multi-agent orchestration framework.
+Agentic Frameworks & Builders	LlamaAgents (by LlamaIndex)	An asynchronous framework for building and deploying distributed, multi-agent systems.
+Agentic Frameworks & Builders	Atomic Agents	A granular, schema-first custom agent builder framework focused on modularity.
+Data Analysis & Research	GPT Researcher	An open-source autonomous agent designed for comprehensive, multi-source online research.
+Data Analysis & Research	Julius AI	An autonomous data analyst capable of writing and executing Python code to visualize massive datasets.
+Data Analysis & Research	Elicit	An AI research assistant that acts autonomously to extract relevant data from academic papers.
+Data Analysis & Research	Consensus	An agentic search engine focused heavily on sourcing and synthesizing scientific research.
+Data Analysis & Research	Perplexity Pro (Agentic Search)	A search agent that executes deep, multi-step internet research with complex reasoning.
+Data Analysis & Research	DataRobot AI Agents	Enterprise-grade agents designed to automate machine learning pipelines and predictive modeling.
+Data Analysis & Research	Wren AI	A text-to-SQL agent that autonomously converts business questions into complex database queries.
+Data Analysis & Research	Entaoai	A generative AI-assisted data engineering tool built for autonomous querying and transformation.
+Data Analysis & Research	CSV Data Summarizer	An open-source agent skill for automatically analyzing and extracting insights from raw CSV files.
+Data Analysis & Research	Scholarcy	An AI-powered research agent that reads, summarizes, and formats academic articles.
+Web Browsing & Scraping	WebSurfer (AutoGen)	A multimodal web agent combining text and visual input to navigate the internet.
+Web Browsing & Scraping	Skyvern	Uses computer vision and LLMs to autonomously execute complex, multi-step browser workflows.
+Web Browsing & Scraping	Browserbase	A highly scalable headless web browser API designed specifically for autonomous AI agents.
+Web Browsing & Scraping	ScrapeGraphAI	A web scraping library that uses LLMs to autonomously create and manage scraping pipelines.
+Web Browsing & Scraping	BrowseAI	A no-code tool that trains agents to autonomously extract and monitor data from any website.
+Web Browsing & Scraping	Kadoa	An AI web scraper that automatically understands and parses hidden website structures.
+Web Browsing & Scraping	Simplaex	An AI agent designed exclusively for deep web exploration and data extraction.
+Web Browsing & Scraping	Apify Agents	Actor-based scraping bots deeply integrated with autonomous LLM capabilities.
+Web Browsing & Scraping	Automa	A browser extension that utilizes agents to autonomously click, fill forms, and manage UI interactions.
+Web Browsing & Scraping	Hugging Face SmolAgents	A minimalist agent SDK that effectively manages web navigation and tool routing.
+Enterprise, CRM & Business Operations	Salesforce Agentforce	A massive suite of customizable, autonomous AI agents for enterprise CRM, sales, and service.
+Enterprise, CRM & Business Operations	Microsoft Copilot for Sales	An agentic assistant that autonomously bridges CRM data with daily communication tools.
+Enterprise, CRM & Business Operations	IBM Watsonx Orchestrate	An AI agent platform for executing complex HR, sales, and internal business workflows.
+Enterprise, CRM & Business Operations	Zendesk AI Agents	Autonomous customer service bots capable of resolving complex, multi-touch tickets.
+Enterprise, CRM & Business Operations	Intercom Fin	A sophisticated AI support agent utilizing deep, autonomous knowledge base integration.
+Enterprise, CRM & Business Operations	Moveworks	An enterprise conversational AI platform providing autonomous IT and HR employee support.
+Enterprise, CRM & Business Operations	HubSpot Breeze	Native AI agents integrated directly into the HubSpot ecosystem to automate marketing and sales.
+Enterprise, CRM & Business Operations	SAP Joule	An autonomous AI copilot embedded seamlessly throughout the SAP enterprise portfolio.
+Enterprise, CRM & Business Operations	Oracle AI Agents	Autonomous business agents deeply integrated into Oracle Cloud Infrastructure.
+Enterprise, CRM & Business Operations	Kustomer IQ	An AI-driven customer service agent focusing on highly personalized, autonomous issue resolution.
+Workflow & Automation Software	Zapier Central	An experimental workspace where users can teach persistent AI agents to handle cross-app tasks.
+Workflow & Automation Software	Make AI	Integrates generative AI agents directly into complex, logic-based API workflows.
+Workflow & Automation Software	Relay.app	A modern automation platform featuring deep, human-in-the-loop autonomous AI agent steps.
+Workflow & Automation Software	n8n Advanced AI	An open-source workflow automation tool incorporating custom, logic-driven AI agents.
+Workflow & Automation Software	UiPath Autopilot	Blends legacy RPA (Robotic Process Automation) with dynamic generative AI agents.
+Workflow & Automation Software	Automation Anywhere GenAI	Enterprise-grade software bots supercharged with agentic reasoning and autonomy.
+Workflow & Automation Software	Robocorp	Open-source Python automation explicitly built to support AI agent tool-use.
+Workflow & Automation Software	Taskade AI	AI workforce software offering autonomous, self-managing task boards and collaboration tools.
+Workflow & Automation Software	Bardeen	An AI agent focused on autonomously executing repetitive actions directly within your browser window.
+Workflow & Automation Software	Letta	An AI agent framework focusing on autonomous document management and long-term memory retrieval.
+Content Creation & Marketing	Jasper	An enterprise-focused marketing agent capable of scaling brand-consistent content autonomously.
+Content Creation & Marketing	Copy.ai	An AI workflow agent designed exclusively to automate go-to-market and sales enablement teams.
+Content Creation & Marketing	Coframe	An agent that continuously and autonomously A/B tests and optimizes landing page copy.
+Content Creation & Marketing	Writesonic	An AI writing agent equipped with real-time web search and autonomous SEO optimization.
+Content Creation & Marketing	Anyword	A data-driven AI copywriting agent focused on predicting and optimizing ad performance.
+Content Creation & Marketing	Phrasee	An enterprise AI agent for autonomously generating and testing email marketing language.
+Content Creation & Marketing	Surfer SEO Agent	An AI that autonomously researches, outlines, writes, and optimizes articles for search engine ranking.
+Content Creation & Marketing	Rytr	A highly versatile AI writing assistant that functions as an agent for dozens of specific content formats.
+Content Creation & Marketing	Averi	An AI agent designed for dynamic, autonomous customer journey mapping and optimization.
+Content Creation & Marketing	Fix AI	An autonomous agent designed explicitly for optimizing daily ad spend across major marketing platforms.
+Infrastructure, DevOps & Cybersecurity	Microsoft Security Copilot	An agentic cybersecurity assistant built for rapid threat hunting and incident response.
+Infrastructure, DevOps & Cybersecurity	CrowdStrike Charlotte AI	A generative AI security analyst that autonomously investigates telemetry data.
+Infrastructure, DevOps & Cybersecurity	Palo Alto Cortex XSIAM	Utilizes autonomous agents to execute rapid Security Operations Center (SOC) remediation.
+Infrastructure, DevOps & Cybersecurity	Ansible Lightspeed	An AI agent that autonomously translates natural language into actionable Ansible automation code.
+Infrastructure, DevOps & Cybersecurity	Pulumi AI	An AI assistant that generates and manages complex Infrastructure as Code (IaC) architectures.
+Infrastructure, DevOps & Cybersecurity	Datadog Bits AI	An autonomous agent for managing system monitoring, alerting, and rapid incident response.
+Infrastructure, DevOps & Cybersecurity	PagerDuty Copilot	An AI agent that autonomously assists DevOps teams during high-stakes, on-call incident resolution.
+Infrastructure, DevOps & Cybersecurity	Snyk AI	An autonomous security agent designed to proactively find and fix vulnerabilities in application code.
+Infrastructure, DevOps & Cybersecurity	Terraform AI	Automates broad cloud resource management through natural language instructions.
+Infrastructure, DevOps & Cybersecurity	Jenkins AI Plugins	A suite of agentic tools that autonomously oversee, optimize, and repair CI/CD pipelines.
+Gaming & Simulation	Voyager (Minecraft)	A groundbreaking, LLM-powered embodied lifelong learning agent that explores and builds inside Minecraft autonomously.
+Gaming & Simulation	Generative Agents (Stanford)	The famous research architecture that successfully simulated a virtual town of autonomous AI personas.
+Gaming & Simulation	AI Town	An open-source starter kit for developers to build and customize their own virtual worlds populated by AI agents.
+Gaming & Simulation	Inworld AI	A sophisticated developer engine for creating autonomous, behavior-driven non-player characters (NPCs) with distinct personalities.
+Gaming & Simulation	Replica Studios	An AI voice and behavior agent platform used to generate dynamic responses in gaming environments.
+Gaming & Simulation	Convai	A platform built specifically for embedding hyper-responsive, conversational AI agents into virtual worlds.
+Gaming & Simulation	Oasis (by Decart)	A playable, real-time interactive AI simulation engine generating worlds on the fly.
+Gaming & Simulation	Google SIMA	A Scalable Instructable Multiworld Agent trained to autonomously navigate and play various 3D virtual environment games.
+Gaming & Simulation	Genie (DeepMind)	A foundational generative AI model capable of creating interactive, playable 2D environments directly from images.
+Gaming & Simulation	GooseAI	A platform providing the complex infrastructure necessary for deploying and managing high-demand AI agents in gaming and simulation media.
