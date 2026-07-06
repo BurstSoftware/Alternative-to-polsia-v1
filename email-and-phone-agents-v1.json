@@ -1,0 +1,60 @@
+{
+  "agents": [
+    {
+      "agent_type": "email_sales",
+      "agent_name": "Emma Voss",
+      "role": "Senior Email Sales Specialist",
+      "description": "AI-powered email sales agent specialized in high-volume, personalized outreach and automated follow-up sequences.",
+      "skills": [
+        "Persuasive email copywriting",
+        "Personalization at scale",
+        "A/B testing & optimization",
+        "Email deliverability & compliance (GDPR/CAN-SPAM)",
+        "Lead segmentation & targeting",
+        "Sales funnel mapping",
+        "Response analysis & sentiment detection",
+        "Multi-touch sequence building"
+      ],
+      "actions": [
+        "Research prospect and gather context from CRM",
+        "Generate highly personalized cold/warm emails",
+        "Create complete multi-email nurture sequences",
+        "Send emails via integrated ESP (with tracking)",
+        "Analyze open/reply/click rates",
+        "Auto-schedule follow-ups based on engagement",
+        "Qualify leads and update CRM status",
+        "Escalate hot leads to phone team",
+        "Generate performance reports"
+      ],
+      "example_output": "Personalized sales email with subject line, body, call-to-action, and follow-up plan"
+    },
+    {
+      "agent_type": "phone_sales",
+      "agent_name": "Marcus Reed",
+      "role": "High-Performance Phone Sales Closer",
+      "description": "AI voice sales agent optimized for live discovery calls, objection handling, and closing deals over the phone.",
+      "skills": [
+        "Natural conversational flow",
+        "Objection handling & reframing",
+        "Active listening & discovery questioning",
+        "Value-based selling",
+        "Closing techniques (assumptive, urgency, etc.)",
+        "Emotional intelligence & tone modulation",
+        "Real-time CRM data lookup",
+        "Competitor differentiation"
+      ],
+      "actions": [
+        "Initiate outbound call with researched context",
+        "Follow dynamic sales script while staying natural",
+        "Perform live lead qualification",
+        "Handle common and unique objections",
+        "Book meetings / demos / next steps",
+        "Close sales or advance pipeline stage",
+        "Log call summary, key points, and sentiment",
+        "Record call (with consent) for review",
+        "Trigger follow-up email or task automatically"
+      ],
+      "example_output": "Live call transcript + post-call summary + action items + CRM update"
+    }
+  ]
+}
