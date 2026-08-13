@@ -1,0 +1,293 @@
+#,Category,Agent Name
+1,Research Knowledge & Analysis,🔍 Researcher
+2,Research Knowledge & Analysis,🧐 Critic & Reviewer
+3,Research Knowledge & Analysis,📊 Data Scientist
+4,Research Knowledge & Analysis,🏛️ Historian
+5,Research Knowledge & Analysis,🤔 Philosophy Scholar
+6,Research Knowledge & Analysis,🧠 Prompt Engineer
+7,Research Knowledge & Analysis,🔬 Scientific Researcher
+8,Research Knowledge & Analysis,📚 Academic Scholar
+9,Research Knowledge & Analysis,🕵️ Fact Checker
+10,Research Knowledge & Analysis,📈 Market Researcher
+11,Research Knowledge & Analysis,🌍 Geopolitical Analyst
+12,Research Knowledge & Analysis,🧮 Statistician
+13,Research Knowledge & Analysis,📖 Literature Analyst
+14,Research Knowledge & Analysis,🧬 Bioinformatics Analyst
+15,Research Knowledge & Analysis,🛰️ Space & Astronomy Analyst
+16,Research Knowledge & Analysis,📰 News & Media Analyst
+17,Research Knowledge & Analysis,🧩 Trend Forecaster
+18,Writing Content & Creative,✍️ Creative Writer
+19,Writing Content & Creative,🦸‍♂️ Comic Book Writer
+20,Writing Content & Creative,🎙️ Podcast Host
+21,Writing Content & Creative,📣 Marketing Specialist
+22,Writing Content & Creative,🎤 Public Relations Expert
+23,Writing Content & Creative,📝 Technical Writer
+24,Writing Content & Creative,📖 Novelist
+25,Writing Content & Creative,🎬 Screenwriter
+26,Writing Content & Creative,📰 Journalist
+27,Writing Content & Creative,🗣️ Speechwriter
+28,Writing Content & Creative,📜 Copywriter
+29,Writing Content & Creative,🎭 Playwright
+30,Writing Content & Creative,🖋️ Ghostwriter
+31,Writing Content & Creative,📧 Email Marketing Specialist
+32,Writing Content & Creative,📱 Social Media Content Creator
+33,Writing Content & Creative,🎨 Storyboard Artist
+34,Writing Content & Creative,🧩 Narrative Designer
+35,Technology & Engineering,💻 Code Expert
+36,Technology & Engineering,☁️ DevOps Engineer
+37,Technology & Engineering,🛡️ Security Specialist
+38,Technology & Engineering,₿ Crypto & Web3 Analyst
+39,Technology & Engineering,🛠️ DIY Mechanic
+40,Technology & Engineering,🏗️ Architect
+41,Technology & Engineering,🖥️ Systems Architect
+42,Technology & Engineering,🤖 AI/ML Engineer
+43,Technology & Engineering,📱 Mobile App Developer
+44,Technology & Engineering,🌐 Full-Stack Developer
+45,Technology & Engineering,🔧 Hardware Engineer
+46,Technology & Engineering,📡 Network Engineer
+47,Technology & Engineering,🧪 QA & Testing Specialist
+48,Technology & Engineering,🗃️ Database Administrator
+49,Technology & Engineering,🔐 Cryptography Expert
+50,Technology & Engineering,🕹️ Game Programmer
+51,Technology & Engineering,⚙️ Embedded Systems Engineer
+52,Technology & Engineering,🧬 Quantum Computing Specialist
+53,Business Strategy & Operations,📈 Business Strategist
+54,Business Strategy & Operations,📋 Project Manager
+55,Business Strategy & Operations,💰 Financial Advisor
+56,Business Strategy & Operations,🤝 Sales Professional
+57,Business Strategy & Operations,🚚 Supply Chain Manager
+58,Business Strategy & Operations,🔍 SEO Specialist
+59,Business Strategy & Operations,🏡 Real Estate Agent
+60,Business Strategy & Operations,🎫 Event Planner
+61,Business Strategy & Operations,📊 Product Manager
+62,Business Strategy & Operations,💼 Management Consultant
+63,Business Strategy & Operations,🧾 Accountant
+64,Business Strategy & Operations,📉 Risk Analyst
+65,Business Strategy & Operations,🛒 E-commerce Specialist
+66,Business Strategy & Operations,📦 Inventory Manager
+67,Business Strategy & Operations,🤝 Negotiation Expert
+68,Business Strategy & Operations,📈 Growth Hacker
+69,Business Strategy & Operations,🏢 Startup Advisor
+70,Business Strategy & Operations,📋 Operations Manager
+71,Design UX & Creative Arts,🎨 UX/UI Designer
+72,Design UX & Creative Arts,🎧 Music Producer
+73,Design UX & Creative Arts,🎬 Video Producer
+74,Design UX & Creative Arts,🎮 Game Designer
+75,Design UX & Creative Arts,🖌️ Graphic Designer
+76,Design UX & Creative Arts,📐 Industrial Designer
+77,Design UX & Creative Arts,👗 Fashion Designer
+78,Design UX & Creative Arts,🖼️ Art Director
+79,Design UX & Creative Arts,🎭 Motion Graphics Designer
+80,Design UX & Creative Arts,📱 App UI Designer
+81,Design UX & Creative Arts,🏡 Interior Designer
+82,Design UX & Creative Arts,📸 Photographer Advisor
+83,Design UX & Creative Arts,🎨 Brand Identity Designer
+84,Design UX & Creative Arts,🧩 Interaction Designer
+85,Education Coaching & Personal Development,🧑‍🏫 Master Tutor
+86,Education Coaching & Personal Development,🧘 Life Coach
+87,Education Coaching & Personal Development,🏋️ Fitness & Health Coach
+88,Education Coaching & Personal Development,🤝 HR Manager
+89,Education Coaching & Personal Development,🗣️ Expert Linguist
+90,Education Coaching & Personal Development,🧠 Career Coach
+91,Education Coaching & Personal Development,📚 Study Skills Coach
+92,Education Coaching & Personal Development,🗣️ Public Speaking Coach
+93,Education Coaching & Personal Development,💪 Motivation Coach
+94,Education Coaching & Personal Development,🧠 Mental Performance Coach
+95,Education Coaching & Personal Development,📖 Language Tutor
+96,Education Coaching & Personal Development,🧩 Soft Skills Trainer
+97,Education Coaching & Personal Development,🎯 Goal Setting Coach
+98,Education Coaching & Personal Development,🧘 Mindfulness Coach
+99,Health Science & Wellness,🩺 Medical Researcher
+100,Health Science & Wellness,🌱 Botanist & Gardener
+101,Health Science & Wellness,🐶 Pet Care Specialist
+102,Health Science & Wellness,🧬 Genetic Counselor (Info)
+103,Health Science & Wellness,🍎 Nutritionist
+104,Health Science & Wellness,🧠 Psychologist (Info)
+105,Health Science & Wellness,💊 Pharmacology Analyst
+106,Health Science & Wellness,🦷 Dental Health Advisor
+107,Health Science & Wellness,🏃 Sports Science Expert
+108,Health Science & Wellness,🌿 Herbalist
+109,Health Science & Wellness,😴 Sleep Specialist
+110,Health Science & Wellness,🧘 Yoga & Movement Coach
+111,Health Science & Wellness,🧪 Lab Techniques Advisor
+112,Lifestyle Travel & Practical Skills,✈️ Travel Agent
+113,Lifestyle Travel & Practical Skills,🍳 Master Chef
+114,Lifestyle Travel & Practical Skills,🧹 Home Organization Expert
+115,Lifestyle Travel & Practical Skills,🧺 Laundry & Fabric Care Specialist
+116,Lifestyle Travel & Practical Skills,🪴 Indoor Plant Expert
+117,Lifestyle Travel & Practical Skills,⛺ Outdoor Adventure Guide
+118,Lifestyle Travel & Practical Skills,🍷 Sommelier
+119,Lifestyle Travel & Practical Skills,☕ Coffee Specialist
+120,Lifestyle Travel & Practical Skills,🎨 Hobby Craft Advisor
+121,Lifestyle Travel & Practical Skills,📦 Minimalism Coach
+122,Lifestyle Travel & Practical Skills,🧳 Packing & Travel Logistics Expert
+123,Legal Finance & Specialized Professional,⚖️ Legal Consultant
+124,Legal Finance & Specialized Professional,📑 Contract Analyst
+125,Legal Finance & Specialized Professional,🧾 Tax Advisor (Info)
+126,Legal Finance & Specialized Professional,🏛️ Compliance Officer
+127,Legal Finance & Specialized Professional,📉 Investment Analyst
+128,Legal Finance & Specialized Professional,🛡️ Insurance Advisor
+129,Legal Finance & Specialized Professional,📜 Intellectual Property Specialist
+130,Legal Finance & Specialized Professional,🏦 Banking Product Specialist
+131,Legal Finance & Specialized Professional,📊 Actuary
+132,Emerging Niche Future-Oriented,🤖 AI Ethics Advisor
+133,Emerging Niche Future-Oriented,🌐 Metaverse Architect
+134,Emerging Niche Future-Oriented,🛰️ Satellite Data Analyst
+135,Emerging Niche Future-Oriented,🧬 Synthetic Biology Designer
+136,Emerging Niche Future-Oriented,⚡ Energy Systems Engineer
+137,Emerging Niche Future-Oriented,🌊 Climate Adaptation Specialist
+138,Emerging Niche Future-Oriented,🧠 Neurotechnology Advisor
+139,Emerging Niche Future-Oriented,🛸 UAV / Drone Specialist
+140,Emerging Niche Future-Oriented,🔐 Zero-Knowledge Proof Expert
+141,Emerging Niche Future-Oriented,🧠 Human-AI Collaboration Coach
+142,Emerging Niche Future-Oriented,📊 Prompt Evaluation Specialist
+143,Emerging Niche Future-Oriented,🧬 Personalized Medicine Analyst
+144,Emerging Niche Future-Oriented,🌍 Sustainability Consultant
+145,Emerging Niche Future-Oriented,🎮 Esports Coach
+146,Emerging Niche Future-Oriented,📡 IoT Systems Architect
+147,Advanced Science & Research,⚛️ Quantum Physicist
+148,Advanced Science & Research,🌊 Oceanographer
+149,Advanced Science & Research,🌋 Volcanologist
+150,Advanced Science & Research,🦠 Microbiologist
+151,Advanced Science & Research,🧪 Materials Scientist
+152,Advanced Science & Research,🌌 Cosmologist
+153,Advanced Science & Research,🧬 Epigenetics Specialist
+154,Advanced Science & Research,🧊 Cryogenics Researcher
+155,Advanced Science & Research,🔋 Battery Technology Expert
+156,Advanced Science & Research,🧲 Magnetism & Superconductivity Analyst
+157,Advanced Science & Research,🌿 Ethnobotanist
+158,Advanced Science & Research,🦕 Paleontologist
+159,Advanced Science & Research,🌫️ Atmospheric Chemist
+160,Advanced Science & Research,🔬 Nanotechnology Specialist
+161,Advanced Science & Research,🧠 Cognitive Neuroscientist
+162,Engineering & Manufacturing,🏗️ Civil Engineer
+163,Engineering & Manufacturing,⚙️ Mechanical Engineer
+164,Engineering & Manufacturing,🔌 Electrical Engineer
+165,Engineering & Manufacturing,🧪 Chemical Engineer
+166,Engineering & Manufacturing,🚢 Naval Architect
+167,Engineering & Manufacturing,✈️ Aerospace Engineer
+168,Engineering & Manufacturing,🏭 Industrial Process Engineer
+169,Engineering & Manufacturing,🧱 Additive Manufacturing Specialist
+170,Engineering & Manufacturing,🔧 Tool & Die Maker Advisor
+171,Engineering & Manufacturing,🛠️ Precision Machining Expert
+172,Engineering & Manufacturing,🏗️ Structural Engineer
+173,Engineering & Manufacturing,🌊 Hydraulic Systems Engineer
+174,Engineering & Manufacturing,🔥 Welding & Metallurgy Specialist
+175,Engineering & Manufacturing,📡 RF & Microwave Engineer
+176,Engineering & Manufacturing,🧪 Polymer & Plastics Engineer
+177,Trades & Craftsmanship,🪚 Master Carpenter
+178,Trades & Craftsmanship,🔌 Master Electrician
+179,Trades & Craftsmanship,🔧 Master Plumber
+180,Trades & Craftsmanship,🧱 Masonry Expert
+181,Trades & Craftsmanship,🏠 Roofing Specialist
+182,Trades & Craftsmanship,🎨 Professional Painter & Finisher
+183,Trades & Craftsmanship,🪵 Cabinetmaker
+184,Trades & Craftsmanship,🧵 Upholstery Specialist
+185,Trades & Craftsmanship,🛠️ Locksmith
+186,Trades & Craftsmanship,🪟 Glazier & Glass Expert
+187,Trades & Craftsmanship,🔩 Blacksmith & Metalworker
+188,Trades & Craftsmanship,🧵 Tailor & Pattern Maker
+189,Trades & Craftsmanship,👞 Cobbler & Leatherworker
+190,Trades & Craftsmanship,🕰️ Watchmaker & Horologist
+191,Trades & Craftsmanship,🎸 Luthier (Instrument Maker)
+192,Digital Culture & Creator Economy,📱 TikTok Strategy Specialist
+193,Digital Culture & Creator Economy,🎮 Twitch Stream Coach
+194,Digital Culture & Creator Economy,📸 Instagram Growth Strategist
+195,Digital Culture & Creator Economy,🎙️ YouTube Channel Architect
+196,Digital Culture & Creator Economy,🧵 Substack & Newsletter Expert
+197,Digital Culture & Creator Economy,💬 Discord Community Manager
+198,Digital Culture & Creator Economy,🧠 Personal Brand Architect
+199,Digital Culture & Creator Economy,📊 Influencer Analytics Specialist
+200,Digital Culture & Creator Economy,🎬 Short-Form Video Editor
+201,Digital Culture & Creator Economy,🗣️ Podcast Guest Booking Expert
+202,Digital Culture & Creator Economy,📈 Creator Monetization Strategist
+203,Digital Culture & Creator Economy,🖼️ NFT & Digital Collectibles Advisor
+204,Digital Culture & Creator Economy,🧠 Meme Culture Analyst
+205,Digital Culture & Creator Economy,📱 Live Shopping Specialist
+206,Healthcare Sub-Specialties,🫀 Cardiologist (Info)
+207,Healthcare Sub-Specialties,🧠 Neurologist (Info)
+208,Healthcare Sub-Specialties,🦴 Orthopedic Specialist (Info)
+209,Healthcare Sub-Specialties,👁️ Ophthalmologist (Info)
+210,Healthcare Sub-Specialties,🦷 Orthodontist (Info)
+211,Healthcare Sub-Specialties,🩸 Hematologist (Info)
+212,Healthcare Sub-Specialties,🫁 Pulmonologist (Info)
+213,Healthcare Sub-Specialties,🧬 Oncologist (Info)
+214,Healthcare Sub-Specialties,🧠 Psychiatrist (Info)
+215,Healthcare Sub-Specialties,🩺 Geriatric Medicine Advisor
+216,Healthcare Sub-Specialties,👶 Pediatric Specialist (Info)
+217,Healthcare Sub-Specialties,🩺 Emergency Medicine Analyst
+218,Healthcare Sub-Specialties,🧬 Immunologist (Info)
+219,Healthcare Sub-Specialties,🦴 Rheumatology Advisor
+220,Healthcare Sub-Specialties,🧠 Sleep Medicine Specialist
+221,Healthcare Sub-Specialties,💊 Clinical Pharmacist Advisor
+222,Policy Government & Public Service,🏛️ Public Policy Analyst
+223,Policy Government & Public Service,📜 Legislative Drafting Specialist
+224,Policy Government & Public Service,🗳️ Election Systems Analyst
+225,Policy Government & Public Service,🛡️ National Security Analyst
+226,Policy Government & Public Service,🌍 Diplomatic Protocol Advisor
+227,Policy Government & Public Service,📋 Government Procurement Expert
+228,Policy Government & Public Service,🏙️ Urban Planning Specialist
+229,Policy Government & Public Service,🚨 Emergency Management Coordinator
+230,Policy Government & Public Service,📊 Public Budget Analyst
+231,Policy Government & Public Service,🏛️ Regulatory Affairs Specialist
+232,Policy Government & Public Service,🕵️ Intelligence Analysis Advisor
+233,Policy Government & Public Service,📜 FOIA & Transparency Expert
+234,Policy Government & Public Service,🌱 Environmental Policy Advisor
+235,Policy Government & Public Service,🏛️ Local Government Operations Expert
+236,Soft Skills & Human Dynamics,🗣️ Conflict Mediator
+237,Soft Skills & Human Dynamics,🤝 Relationship Coach
+238,Soft Skills & Human Dynamics,🧠 Emotional Intelligence Trainer
+239,Soft Skills & Human Dynamics,👥 Team Dynamics Facilitator
+240,Soft Skills & Human Dynamics,🗣️ Cross-Cultural Communication Expert
+241,Soft Skills & Human Dynamics,🧠 Negotiation Psychologist
+242,Soft Skills & Human Dynamics,🎯 Persuasion & Influence Specialist
+243,Soft Skills & Human Dynamics,🗣️ Difficult Conversations Coach
+244,Soft Skills & Human Dynamics,🧠 Bias & Decision-Making Coach
+245,Soft Skills & Human Dynamics,👥 Inclusive Leadership Advisor
+246,Soft Skills & Human Dynamics,🗣️ Facilitation & Meeting Design Expert
+247,Soft Skills & Human Dynamics,🧠 Trauma-Informed Communication Coach
+248,Soft Skills & Human Dynamics,🤝 Networking Strategist
+249,Soft Skills & Human Dynamics,🗣️ Storytelling for Leaders
+250,Soft Skills & Human Dynamics,🧠 Psychological Safety Expert
+251,Food Science & Culinary Depth,🧪 Food Chemist
+252,Food Science & Culinary Depth,🧀 Artisanal Cheesemaker
+253,Food Science & Culinary Depth,🍞 Sourdough & Fermentation Expert
+254,Food Science & Culinary Depth,🍫 Chocolatier
+255,Food Science & Culinary Depth,🍺 Master Brewer
+256,Food Science & Culinary Depth,🍷 Advanced Sommelier
+257,Food Science & Culinary Depth,🥩 Butchery & Charcuterie Specialist
+258,Food Science & Culinary Depth,🍣 Sushi & Japanese Cuisine Master
+259,Food Science & Culinary Depth,🌶️ Chili & Spice Specialist
+260,Food Science & Culinary Depth,🧊 Molecular Gastronomy Expert
+261,Food Science & Culinary Depth,🥖 Bakery Science Specialist
+262,Food Science & Culinary Depth,🥗 Plant-Based Culinary Innovator
+263,Food Science & Culinary Depth,🧴 Food Preservation Expert
+264,Food Science & Culinary Depth,☕ Specialty Coffee Roaster
+265,Food Science & Culinary Depth,🧉 Tea Master & Blender
+266,Niche Hobbies & Lifestyle,♟️ Chess Grandmaster Coach
+267,Niche Hobbies & Lifestyle,🧩 Speedcubing Coach
+268,Niche Hobbies & Lifestyle,🎣 Advanced Angling Specialist
+269,Niche Hobbies & Lifestyle,🏹 Archery Coach
+270,Niche Hobbies & Lifestyle,🧗 Rock Climbing Technique Expert
+271,Niche Hobbies & Lifestyle,🤿 Scuba Diving Instructor Advisor
+272,Niche Hobbies & Lifestyle,🪂 Skydiving & Freefall Coach
+273,Niche Hobbies & Lifestyle,🏍️ Motorcycle Riding Coach
+274,Niche Hobbies & Lifestyle,🎸 Advanced Guitar Technique Coach
+275,Niche Hobbies & Lifestyle,🎹 Jazz Improvisation Specialist
+276,Niche Hobbies & Lifestyle,🎨 Watercolor Technique Master
+277,Niche Hobbies & Lifestyle,📷 Street Photography Mentor
+278,Niche Hobbies & Lifestyle,🧵 Embroidery & Needlework Expert
+279,Niche Hobbies & Lifestyle,🪵 Woodturning Specialist
+280,Niche Hobbies & Lifestyle,🕯️ Candle & Soap Making Expert
+281,Future & Speculative Domains,🧬 Longevity & Aging Researcher
+282,Future & Speculative Domains,🧠 Brain-Computer Interface Advisor
+283,Future & Speculative Domains,🛰️ Space Habitat Designer
+284,Future & Speculative Domains,🤖 Swarm Robotics Specialist
+285,Future & Speculative Domains,🌐 Decentralized Identity Expert
+286,Future & Speculative Domains,⚡ Fusion Energy Analyst
+287,Future & Speculative Domains,🧬 Synthetic Organ Designer
+288,Future & Speculative Domains,🧠 Memory Enhancement Specialist
+289,Future & Speculative Domains,🛸 Extraterrestrial Resource Analyst
+290,Future & Speculative Domains,🧬 Gene Drive Ethics Advisor
+291,Future & Speculative Domains,🌊 Underwater Habitat Architect
+292,Future & Speculative Domains,🧠 Collective Intelligence Designer
